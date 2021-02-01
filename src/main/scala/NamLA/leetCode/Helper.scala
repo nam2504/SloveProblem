@@ -44,4 +44,7 @@ object Helper {
                 map(j => j.toInt)
         })
     }
+    def toArr(data: String): Array[Int] = {
+        data.drop(1).dropRight(1).split(",").map(i => i.trim.toInt)
+    }
 }

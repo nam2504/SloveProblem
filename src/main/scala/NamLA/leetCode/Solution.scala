@@ -33,9 +33,26 @@ object Solution {
         alice.compareTo(0)
     }
 
+    val MAX = 1000000007
+
+    def concatenatedBinary(n: Int): Int = {
+        var rs = 0L
+        var cntBit = 0
+
+        for (i <- 1 to n) {
+            if (0 == ((i - 1) & i))
+                cntBit += 1
+            rs = (rs << cntBit)% MAX + i
+            rs = rs % MAX
+        }
+        rs.toInt
+    }
 
 
     def main(args: Array[String]): Unit = {
+        println(MAX)
+        println(concatenatedBinary(12)) //505379714
+        return
         test(Array(2,3,5))
         test(Array(1,4,6,8,10))
         return
