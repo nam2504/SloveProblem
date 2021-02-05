@@ -12,17 +12,17 @@ object Solution22522 {
         var rs = ""
         hh match {
             case "??" => rs += "23:"
-            case ch if (ch(0) == '?' && ch(1) < '4') => rs += "2" + ch(1) + ":"
-            case ch if (ch(0) == '?' && ch(1) >= '4') => rs += "1" + ch(1) + ":"
-            case ch if (ch(1) == '?' && ch(0) < '2') => rs += ch(0) + "9" + ":"
-            case ch if (ch(1) == '?' && ch(0) == '2') => rs += hh(0) + "3" + ":"
+            case ch if ch(0) == '?' && ch(1) < '4' => rs += "2" + ch(1) + ":"
+            case ch if ch(0) == '?' && ch(1) >= '4' => rs += "1" + ch(1) + ":"
+            case ch if ch(1) == '?' && ch(0) < '2' => rs += ch(0) + "9" + ":"
+            case ch if ch(1) == '?' && ch(0) == '2' => rs += hh(0) + "3" + ":"
             case _ =>  rs += hh + ":"
         }
 
         mm match {
             case "??" => rs += "59"
-            case ch if (ch(0) == '?') => rs += "5" + ch(1)
-            case ch if (ch(1) == '?') => rs += ch(0) + "9"
+            case ch if ch(0) == '?' => rs += "5" + ch(1)
+            case ch if ch(1) == '?' => rs += ch(0) + "9"
             case _ => rs += mm
         }
 
@@ -101,29 +101,26 @@ return
     }
 
     def minimumBoxes(n: Int): Int = {
-        var total = 1
-        var floor = 1
-        var i = 1
-        while (total < n) {
-            i += 1
-            floor += i
+        var total = 0
+        var floor = 0
+        var d = 0 // length in diagonal
+        while (total + floor < n) {
+            d += 1
+            floor += d
             total += floor
-            1 == 1
         }
-        if (n < total - floor + i) {
-            return floor - 2
+        var buffD = 0
+        while (total < n) {
+            buffD += 1
+            total += buffD
         }
-        if (n < total - i + 1) {
-            return floor - 1
-        }
-
-        floor
+        floor + buffD
     }
 
     def test4 {
-//        println(minimumBoxes(15)) // 9
+        println(minimumBoxes(15)) // 9
         println(minimumBoxes(126)) // 39
-        return
+//        return
         println(minimumBoxes(3))
         println(minimumBoxes(4))
         println(minimumBoxes(10))
