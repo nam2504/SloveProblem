@@ -1,3 +1,4 @@
 .idea/
 *$.class
+target/*./class
 target/test-classes/META-INF/SloveProblem.kotlin_module

@@ -38,4 +38,11 @@ object NextPermutation {
 
         println(arr.mkString(","))
     }
+
+    def maxDistToClosest(seats: Array[Int]): Int = {
+        val idx = seats.indices.filter(seats(_) == 1)
+        var max = idx.head.max(seats.length - 1 - idx.last)
+        idx.indices.drop(1).foreach(i => max = Math.max(max, (idx(i) - idx(i - 1)) / 2))
+        max
+    }
 }
