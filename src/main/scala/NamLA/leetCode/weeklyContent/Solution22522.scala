@@ -4,7 +4,7 @@ import NamLA.leetCode.Helper
 import NamLA.leetCode.Helper._
 
 import scala.collection.convert.ImplicitConversionsToJava.`map AsJavaMap`
-object Solution225 {
+object Solution22522 {
     def maximumTime(time: String): String = {
         val seq = time.split(":")
         val hh = seq(0)
