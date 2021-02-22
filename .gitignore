@@ -1,3 +1,4 @@
 .idea/
 *$.class
 target/test-classes/META-INF/SloveProblem.kotlin_module
+target/classes/NamLA/leetCode/weeklyContent/Solution225.class
