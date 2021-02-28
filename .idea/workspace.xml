@@ -1,0 +1,1043 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a60ef4b1-49b5-49c6-98f7-82449c7a86e2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="205" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="9" lean-forward="true" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="ScalaTest Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>2001.</find>
+      <find>2001</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/scala/NamLA/App.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/NamLA/Test.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/NamLA/leetCode/KDiffPairsInArray.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/NamLA/leetCode/KDiffPairsInArrayTest.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/NamLA/leetCode/MaxNonOverlapping.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/NamLA/leetCode/MaxNonOverlappingTest.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/NamLA/leetCode/LonglestPalindromicSubString.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/NamLA/leetCode/LongestPalindromicSubString.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/NamLA/leetCode/BtreeGameWinningMove.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/NamLA/leetCode/HouseRobber.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/NamLA/leetCode/CheckSubPathListNodeInTreeNode.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/NamLA/leetCode/CalculateString.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/NamLA/leetCode/ThroneInheritance.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/NamLA/leetCode/DeliveringBoxesFromStorageToPorts.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/NamLA/leetCode/UnHappyFriends.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/NamLA/leetCode/weeklyContent/Solution225.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/NamLA/leetCode/CustomStack.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/NamLA/leetCode/MergeKSortedLists.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/NamLA/leetCode/MinimumEffortPath.scala" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/scala/NamLA/leetCode/Solution.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/NamLA/leetCode/LeastOpsExpressTarget.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/NamLA/leetCode/Sudoku.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/NamLA/leetCode/VerticalTraversal.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/NamLA/leetCode/Helper.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/NamLA/leetCode/weeklyContent/S227.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/NamLA/leetCode/NextPermutation.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/NamLA/leetCode/ShortestPathBinaryMatrix.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/NamLA/leetCode/DecodeXORedPermutation.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/NamLA/leetCode/WaysToFillArray.scala" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
+        <option value="$PROJECT_DIR$/.idea/scala_compiler.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="246" />
+    <option name="y" value="1" />
+    <option name="width" value="1503" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SloveProblem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SloveProblem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SloveProblem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SloveProblem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SloveProblem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SloveProblem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SloveProblem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SloveProblem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SloveProblem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SloveProblem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="NamLA" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SloveProblem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SloveProblem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="NamLA" type="462c0819:PsiDirectoryNode" />
+              <item name="leetCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SloveProblem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SloveProblem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="NamLA" type="462c0819:PsiDirectoryNode" />
+              <item name="leetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="weeklyContent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SloveProblem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SloveProblem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SloveProblem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SloveProblem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SloveProblem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SloveProblem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="NamLA" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SloveProblem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SloveProblem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="NamLA" type="462c0819:PsiDirectoryNode" />
+              <item name="leetCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="ScalaTest" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.ScalaTest" value="org.scalatest.flatspec.AnyFlatSpec" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.scala.settings.ScalaProjectSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="NamLA.leetCode" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="org.scalatest.flatspec.AnyFlatSpec" />
+      <recent name="org.scalatest.FunSuite" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.WaysToFillArray">
+    <configuration name="DecodeXORedPermutation" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="NamLA.leetCode.DecodeXORedPermutation" />
+      <module name="SloveProblem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NamLA.leetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NextPermutation" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="NamLA.leetCode.NextPermutation" />
+      <module name="SloveProblem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NamLA.leetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="S227" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="NamLA.leetCode.weeklyContent.S227" />
+      <module name="SloveProblem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NamLA.leetCode.weeklyContent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShortestPathBinaryMatrix" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="NamLA.leetCode.ShortestPathBinaryMatrix" />
+      <module name="SloveProblem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NamLA.leetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WaysToFillArray" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="NamLA.leetCode.WaysToFillArray" />
+      <module name="SloveProblem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NamLA.leetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WaysToFillArray" />
+        <item itemvalue="Application.DecodeXORedPermutation" />
+        <item itemvalue="Application.ShortestPathBinaryMatrix" />
+        <item itemvalue="Application.NextPermutation" />
+        <item itemvalue="Application.S227" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="dontShowConversionDialog" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a60ef4b1-49b5-49c6-98f7-82449c7a86e2" name="Default Changelist" comment="" />
+      <created>1611028684724</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611028684724</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MaxNonOverlappingTest_MaxNonOverlapping_should_TestNormal - 2021.01.19 at 14h 31m 08s.xml">
+      <configuration name="MaxNonOverlappingTest.MaxNonOverlapping should TestNormal" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="MaxNonOverlappingTest_MaxNonOverlapping_should_TestNormal - 2021.01.19 at 14h 31m 26s.xml">
+      <configuration name="MaxNonOverlappingTest.MaxNonOverlapping should TestNormal" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="MaxNonOverlappingTest_MaxNonOverlapping_should_TestNormal - 2021.01.19 at 14h 33m 13s.xml">
+      <configuration name="MaxNonOverlappingTest.MaxNonOverlapping should TestNormal" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="MaxNonOverlappingTest_MaxNonOverlapping_should_TestNormal - 2021.01.19 at 14h 34m 13s.xml">
+      <configuration name="MaxNonOverlappingTest.MaxNonOverlapping should TestNormal" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="MaxNonOverlappingTest_MaxNonOverlapping_should_TestNormal - 2021.01.19 at 14h 34m 26s.xml">
+      <configuration name="MaxNonOverlappingTest.MaxNonOverlapping should TestNormal" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="MaxNonOverlappingTest_MaxNonOverlapping_should_TestNormal - 2021.01.19 at 14h 46m 26s.xml">
+      <configuration name="MaxNonOverlappingTest.MaxNonOverlapping should TestNormal" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="MaxNonOverlappingTest_MaxNonOverlapping_should_TestNormal - 2021.01.19 at 14h 48m 56s.xml">
+      <configuration name="MaxNonOverlappingTest.MaxNonOverlapping should TestNormal" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="MaxNonOverlappingTest_MaxNonOverlapping_should_TestNormal - 2021.01.19 at 14h 50m 12s.xml">
+      <configuration name="MaxNonOverlappingTest.MaxNonOverlapping should TestNormal" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="MaxNonOverlappingTest_MaxNonOverlapping_should_TestNormal - 2021.01.19 at 14h 50m 16s.xml">
+      <configuration name="MaxNonOverlappingTest.MaxNonOverlapping should TestNormal" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="MaxNonOverlappingTest_MaxNonOverlapping_should_TestNormal - 2021.01.19 at 14h 50m 29s.xml">
+      <configuration name="MaxNonOverlappingTest.MaxNonOverlapping should TestNormal" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="246" y="1" width="1503" height="1056" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.68147343" visible="true" weight="0.27304226" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.40303358" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4904051" weight="0.2383532" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4899515" weight="0.3445287" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32827735" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4936034" weight="0.3997833" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49626866" weight="0.48754063" />
+      <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.4968017" weight="0.312026" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5100485" side_tool="true" weight="0.3445287" />
+      <window_info anchor="bottom" id="Anonymous Apex" order="11" weight="0.32936078" />
+      <window_info anchor="bottom" id="Log Analyzer" order="12" weight="0.32936078" />
+      <window_info anchor="bottom" id="SOQL Query" order="13" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Coverage" order="6" side_tool="true" weight="0.32986832" />
+      <window_info anchor="right" id="Ant Build" order="7" sideWeight="0.49945828" weight="0.25" />
+      <window_info anchor="right" id="Structure" order="8" sideWeight="0.41518578" side_tool="true" weight="0.17750533" />
+      <window_info anchor="right" id="Maven" order="9" sideWeight="0.5848142" weight="0.16311301" />
+      <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="10" side_tool="true" weight="0.32995737" />
+      <window_info anchor="right" id="Json Parser" order="11" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.68147343" visible="true" weight="0.26264727" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.40303358" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4904051" weight="0.35427952" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4914712" weight="0.4171181" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32827735" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4936034" weight="0.3997833" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49626866" weight="0.48754063" />
+      <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.4968017" weight="0.312026" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50959486" side_tool="true" weight="0.45287108" />
+      <window_info anchor="bottom" id="Anonymous Apex" order="11" weight="0.32936078" />
+      <window_info anchor="bottom" id="Log Analyzer" order="12" weight="0.32936078" />
+      <window_info anchor="bottom" id="SOQL Query" order="13" weight="0.32936078" />
+      <window_info anchor="right" id="Json Parser" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Coverage" order="7" side_tool="true" weight="0.32995737" />
+      <window_info anchor="right" id="Ant Build" order="8" sideWeight="0.49945828" weight="0.25" />
+      <window_info anchor="right" id="Structure" order="9" sideWeight="0.41518578" side_tool="true" weight="0.17750533" />
+      <window_info anchor="right" id="Maven" order="10" sideWeight="0.5848142" weight="0.16311301" />
+      <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="11" side_tool="true" weight="0.32995737" />
+    </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/NamLA/leetCode/CustomStack.scala</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/NamLA/leetCode/CustomStack.scala</url>
+          <line>68</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/NamLA/leetCode/CustomStack.scala</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/NamLA/leetCode/CustomStack.scala</url>
+          <line>62</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/NamLA/leetCode/CustomStack.scala</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/NamLA/leetCode/CustomStack.scala</url>
+          <line>70</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/NamLA/leetCode/CustomStack.scala</url>
+          <line>73</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/NamLA/leetCode/CustomStack.scala</url>
+          <line>75</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/NamLA/leetCode/Solution.scala</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/NamLA/leetCode/Solution.scala</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/NamLA/leetCode/LeastOpsExpressTarget.scala</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/NamLA/leetCode/LeastOpsExpressTarget.scala</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/NamLA/leetCode/LeastOpsExpressTarget.scala</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/NamLA/leetCode/ShortestPathBinaryMatrix.scala</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/NamLA/leetCode/ShortestPathBinaryMatrix.scala</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/NamLA/leetCode/DecodeXORedPermutation.scala</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SloveProblem$TestCustomStack.ic" NAME="TestCustomStack Coverage Results" MODIFIED="1611544838876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>NamLA.leetCode.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>palindrome.length / 2</expression-string>
+        <language-id>Scala</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(palindrome.length) / 2</expression-string>
+        <language-id>Scala</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(palindrome.length + 1) / 2</expression-string>
+        <language-id>Scala</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>palindrome.take(i) + &quot;a&quot; + palindrome.drop(i+1)</expression-string>
+        <language-id>Scala</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>palindrome.take(i) + &quot;a&quot; + palindrome.drop(i)</expression-string>
+        <language-id>Scala</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>palindrome.take(i - 1) + &quot;a&quot; + palindrome.drop(i)</expression-string>
+        <language-id>Scala</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>palindrome.take(i - 1)</expression-string>
+        <language-id>Scala</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>d * c</expression-string>
+        <language-id>Scala</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>d * c &gt;= last - (c - 1)</expression-string>
+        <language-id>Scala</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="watch">
+      <expression>
+        <expression-string>candiesCount(t)</expression-string>
+        <language-id>Scala</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>sum(t-1)</expression-string>
+        <language-id>Scala</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>sum(t)</expression-string>
+        <language-id>Scala</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>sum(t) / c</expression-string>
+        <language-id>Scala</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>sum / c</expression-string>
+        <language-id>Scala</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>target</expression-string>
+        <language-id>Scala</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>rs &lt;&lt; i.toBinaryString.length</expression-string>
+        <language-id>Scala</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i.toBinaryString</expression-string>
+        <language-id>Scala</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>nums.indexOf(target)</expression-string>
+        <language-id>Scala</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>nums(mid)</expression-string>
+        <language-id>Scala</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scalatest/scalatest-compatible/3.2.3/scalatest-compatible-3.2.3-sources.jar!/org/scalatest/compatible/Assertion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="24" column="37" lean-forward="true" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scalatest/scalatest-core_2.13/3.2.3/scalatest-core_2.13-3.2.3-sources.jar!/org/scalatest/package.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="85" column="36" selection-start-line="85" selection-start-column="36" selection-end-line="85" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scalatest/scalatest-shouldmatchers_2.13/3.2.3/scalatest-shouldmatchers_2.13-3.2.3-sources.jar!/org/scalatest/matchers/should/Matchers.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6818" column="13" lean-forward="true" selection-start-line="6818" selection-start-column="13" selection-end-line="6818" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/NamLA/App.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scalatest/scalatest-matchers-core_2.13/3.2.3/scalatest-matchers-core_2.13-3.2.3.jar!/org/scalatest/matchers/dsl/MatcherWords.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scalatest/scalatest-matchers-core_2.13/3.2.3/scalatest-matchers-core_2.13-3.2.3-sources.jar!/org/scalatest/matchers/dsl/BeWord.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1000">
+          <caret line="64" column="18" selection-start-line="64" selection-start-column="18" selection-end-line="64" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scalatest/scalatest-matchers-core_2.13/3.2.3/scalatest-matchers-core_2.13-3.2.3-sources.jar!/org/scalatest/matchers/dsl/MatcherWords.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="111" column="21" selection-start-line="111" selection-start-column="21" selection-end-line="111" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/NamLA/Test.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="26" />
+          <folding>
+            <element signature="e#15#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/NamLA/leetCode/KDiffPairsInArray.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="86" selection-start-line="9" selection-start-column="86" selection-end-line="9" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/NamLA/leetCode/KDiffPairsInArrayTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="69" lean-forward="true" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="69" />
+          <folding>
+            <element signature="e#24#65#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/NamLA/leetCode/MaxNonOverlappingTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="27" />
+          <folding>
+            <element signature="e#24#65#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/NamLA/leetCode/LongestPalindromicSubString.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="33" lean-forward="true" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.13.1/scala-library-2.13.1.jar!/scala/collection/StringOps.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="156" column="6" selection-start-line="156" selection-start-column="6" selection-end-line="156" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/NamLA/leetCode/HouseRobber.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="40" column="20" lean-forward="true" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/NamLA/leetCode/BtreeGameWinningMove.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.13.1/scala-library-2.13.1.jar!/scala/collection/IterableOnceOps.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="53" column="6" selection-start-line="53" selection-start-column="6" selection-end-line="53" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.13.1/scala-library-2.13.1-sources.jar!/scala/collection/IterableOnce.scala">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/NamLA/leetCode/CalculateString.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="40" lean-forward="true" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/NamLA/leetCode/CheckSubPathListNodeInTreeNode.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="20" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/NamLA/leetCode/MaxNonOverlapping.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/NamLA/leetCode/ThroneInheritance.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/NamLA/leetCode/UnHappyFriends.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/NamLA/leetCode/DeliveringBoxesFromStorageToPorts.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="34" column="89" selection-start-line="34" selection-start-column="89" selection-end-line="34" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/NamLA/leetCode/CustomStack.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="38" column="9" lean-forward="true" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/NamLA/leetCode/MergeKSortedLists.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="542">
+          <caret line="46" column="5" lean-forward="true" selection-start-line="40" selection-start-column="4" selection-end-line="46" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/NamLA/leetCode/MinimumEffortPath.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+          <folding>
+            <element signature="n#plugins#0;n#build#0;n#project#0;n#!!top" />
+            <element signature="n#plugin#1;n#plugins#0;n#build#0;n#project#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/NamLA/leetCode/Solution.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="41" column="27" lean-forward="true" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/NamLA/leetCode/VerticalTraversal.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="43" lean-forward="true" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/NamLA/leetCode/Sudoku.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#605#712#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/NamLA/leetCode/LeastOpsExpressTarget.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="28" column="30" lean-forward="true" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.13.1/scala-library-2.13.1-sources.jar!/scala/collection/Iterable.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="173" column="16" selection-start-line="173" selection-start-column="16" selection-end-line="173" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.13.1/scala-library-2.13.1-sources.jar!/scala/collection/Seq.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="229" column="26" lean-forward="true" selection-start-line="229" selection-start-column="26" selection-end-line="229" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/NamLA/leetCode/weeklyContent/S227.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1343">
+          <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/NamLA/leetCode/Helper.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="2221" column="18" selection-start-line="2221" selection-start-column="18" selection-end-line="2221" selection-end-column="18" />
+          <folding>
+            <element signature="e#62860#62861#0" expanded="true" />
+            <element signature="e#62916#62917#0" expanded="true" />
+            <element signature="e#94598#94599#0" expanded="true" />
+            <element signature="e#94636#94637#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.13.1/scala-library-2.13.1-sources.jar!/scala/package.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="106" column="6" selection-start-line="106" selection-start-column="6" selection-end-line="106" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.13.1/scala-library-2.13.1-sources.jar!/scala/collection/mutable/Stack.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="109" column="22" selection-start-line="109" selection-start-column="22" selection-end-line="109" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/NamLA/leetCode/weeklyContent/Solution225.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/NamLA/leetCode/weeklyContent/Solution22522.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" column="78" lean-forward="true" selection-start-line="17" selection-start-column="78" selection-end-line="17" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/NamLA/leetCode/DecodeXORedPermutation.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="57" selection-start-line="21" selection-start-column="57" selection-end-line="21" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/NamLA/leetCode/WaysToFillArray.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="44" selection-start-line="2" selection-start-column="23" selection-end-line="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/NamLA/leetCode/ShortestPathBinaryMatrix.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/NamLA/leetCode/NextPermutation.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="38" lean-forward="true" selection-start-column="38" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/thriftCompiler.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/scala_settings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/scala_compiler.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="9" lean-forward="true" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.13.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
