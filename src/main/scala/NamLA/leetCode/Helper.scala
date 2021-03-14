@@ -47,4 +47,16 @@ object Helper {
     def toArr(data: String): Array[Int] = {
         data.drop(1).dropRight(1).split(",").map(i => i.trim.toInt)
     }
+
+    def toArrAndInt(data: String): (Array[Int], Int) = {
+        val Array(dataArr, dataInt) = data.split("\n")
+        val arr = toArr(dataArr)
+        (arr, dataInt.toInt)
+    }
+
+    def toArrArrAndInt(data: String): (Array[Array[Int]], Int) = {
+        val Array(dataArr, dataInt) = data.split("\n")
+        val arr = toArrArr(dataArr)
+        (arr, dataInt.toInt)
+    }
 }
