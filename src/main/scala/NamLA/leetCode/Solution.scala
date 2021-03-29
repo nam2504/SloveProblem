@@ -1,6 +1,6 @@
 package NamLA.leetCode
 
-object Solution {
+object SolutionX {
     import collection.mutable._
 
     def countConsistentStrings(allowed: String, words: Array[String]): Int = {
