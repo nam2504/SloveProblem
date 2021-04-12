@@ -7,15 +7,19 @@ object Helper {
     class TreeNode(var value: Int, var left: TreeNode = null, var right: TreeNode = null)
 
     class ListNode(var x: Int = 0, var next: ListNode = null) {
-        def printData(): Unit = {
-            var data = mutable.ArrayBuffer[Int]()
+
+        def toArr: Array[Int] = {
+            val data = mutable.ArrayBuffer[Int]()
             data.append(x)
             var n = next
             while (n != null) {
                 data.append(n.x)
                 n = n.next
             }
-            println(data.mkString(","))
+            data.toArray
+        }
+        def printData(): Unit = {
+            println(toArr.mkString(","))
         }
     }
 
@@ -32,6 +36,22 @@ object Helper {
 
         def convertArray(a: Array[Array[Int]]): Array[ListNode] = {
             a.map(d => ListNode(d))
+        }
+
+        def revere(node: ListNode): ListNode = {
+            if (node == null || node.next == null)
+                return node
+            var next = node.next
+            node.next = null
+            var tail = node
+            while (next != null) {
+                val tmp = next.next
+                next.next = tail
+                tail = next
+                next = tmp
+            }
+            tail
+
         }
     }
 
