@@ -2,7 +2,7 @@ package NamLA.GGCodeJam.Y2021.QualificationRound
 
 object Solution {
 
-    import GGCJHelper._
+    import NamLA.GGCodeJam.Y2021.GGCJHelper._
 
     def mUCost(x: Int, y: Int, data: String): Int = {
         def getCost(i: Int, j: Int): Int = {

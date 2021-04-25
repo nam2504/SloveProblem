@@ -3,7 +3,7 @@ package NamLA.GGCodeJam.Y2021.QualificationRound
 
 object Reversort {
 
-    import GGCJHelper._
+    import NamLA.GGCodeJam.Y2021.GGCJHelper._
 
     def rever(i: Int, j: Int, data: Array[Int]): Unit = {
         var start = i

@@ -1,4 +1,4 @@
-package NamLA.GGCodeJam.Y2021.QualificationRound
+package NamLA.GGCodeJam.Y2021
 
 import scala.reflect.ClassTag
 

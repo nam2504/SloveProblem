@@ -1,5 +1,5 @@
 package NamLA.GGCodeJam.Y2021.QualificationRound
-import GGCJHelper._
+import NamLA.GGCodeJam.Y2021.GGCJHelper._
 object MedianSort {
 
     import scala.collection.mutable.ArrayBuffer

@@ -2,7 +2,7 @@ package NamLA.GGCodeJam.Y2021.QualificationRound
 
 object CheatingDetection {
 
-    import GGCJHelper._
+    import NamLA.GGCodeJam.Y2021.GGCJHelper._
 
     def cheat(p: Int, data: Array[Array[Boolean]]): Int = {
         val count = Array.fill(100)(0)
